@@ -1,0 +1,12 @@
+{
+  "name": "mqitest",
+  "version": "0.0.1",
+  "description": "",
+  "author": "",
+  "dependencies": {
+    "ibmmq": "^1.0.5"
+  },
+  "engines": {
+    "node": ">16.0.0"
+  }
+}
